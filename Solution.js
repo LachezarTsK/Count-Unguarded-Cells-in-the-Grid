@@ -40,7 +40,7 @@ function populateMatrix(matrix, locationsToPopulate, typeOfCell) {
 
 /**
  * @param {number[][]} matrix
- * @return {void}
+ * @return {number}
  */
 function countAllUnguardedCells(matrix) {
     let countUnguardedCells = 0;
